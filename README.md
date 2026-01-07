@@ -14,36 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ===================== HERO BANNER ===================== -->
+# 👋 Hi, I’m Sai Dharahas Rao
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sai7942/Sai7942/main/YouTube%20Banner%20SAI%20DHARAHAS%20RAO.png" width="100%" />
 </p>
 
-<!-- ===================== FLOATING TITLE ===================== -->
-<h1 align="center">Sai Dharahas Rao</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF2D2D&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;MERN+Stack+Specialist;Java+%7C+DSA+%7C+System+Design;Clean+Architecture+%26+Scalable+Systems;Engineering+Over+Hype" />
+  <b>Full-Stack Engineer | MERN Stack | Java</b>
 </p>
 
 <p align="center">
-  <i>Designing systems with responsibility, performance, and clarity.</i>
+  Designing reliable, scalable, and maintainable software systems.
 </p>
-
-<p align="center">
-  <b>"With great power comes great responsibility."</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
 ---
 
-<!-- ===================== TECH RADAR ===================== -->
-<h2>🧠 Engineering Focus</h2>
-
-<table>
-<tr>
-<td width="50%">
+## 🧠 Engineering Focus
 
 ### Backend
 - Java (OOP, Collections)
@@ -52,94 +39,46 @@ Here are some ideas to get you started:
 - Authentication & Validation
 - SQL & MongoDB
 
-</td>
-<td width="50%">
-
 ### Frontend
-- React (Component Architecture)
+- React
 - HTML5 / CSS3
 - Responsive UI
 - Data Visualization
-- Performance Optimization
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!-- ===================== SKILL ICON CLOUD ===================== -->
-<h2>🛠 Technology Stack</h2>
+## 🛠 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,sql,git&theme=dark" />
-</p>
-
-
----
-
-<!-- ===================== SYSTEM THINKING ===================== -->
-<h2>⚙️ Engineering Principles</h2>
-
-- Scalable backend architecture  
-- Clean separation of concerns (MVC)  
-- Database normalization & indexing  
-- Secure input validation  
-- Reusable UI components  
-- Maintainable, documented codebases  
-
----
-
-<!-- ===================== PROJECT SHOWCASE ===================== -->
-<h2>🚀 Flagship Projects</h2>
-
-### 🔴 Personal Finance Management System
-MERN-based system designed for real-world financial tracking and analysis.
-
-✔ Modular REST APIs  
-✔ Real-time charts & dashboards  
-✔ Automated spending insights  
-✔ Data validation & monitoring  
-✔ Clean, extensible architecture  
-
----
-
-### 🔵 Travel Guru Platform
-A mobile-first travel platform built for engagement and insight.
-
-✔ Optimized responsive UI  
-✔ Local sentiment aggregation  
-✔ User feedback-driven features  
-✔ Performance-focused frontend  
-
----
-
-<!-- ===================== LIVE STATS ===================== -->
-<h2>📊 GitHub Engineering Metrics</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sai7942&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sai7942&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai7942&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,git&theme=dark" />
 </p>
 
 ---
 
-<!-- ===================== ACTIVITY VISUAL ===================== -->
-<h2>🕸 Contribution Activity</h2>
+## ⚙️ Engineering Principles
+
+- Clean architecture (MVC)
+- Separation of concerns
+- Scalable backend design
+- Secure data handling
+- Maintainable codebases
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/Sai7942/Sai7942/blob/output/github-contribution-grid-snake.svg" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sai7942&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sai7942&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai7942&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-
 <p align="center">
-  <b>Engineering reliable systems.</b><br/>
+  <b>Engineering over hype.</b><br/>
   Consistency • Discipline • Responsibility
 </p>
